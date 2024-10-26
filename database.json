@@ -1,0 +1,24 @@
+[
+    {
+        "fname": "Firstname",
+        "lname": "Lastname",
+        "fullname": "Firstname Lastname",
+        "email": "validemail@gmail.com",
+        "account_number": "3293592767",
+        "phone": "+2349088776655",
+        "dob": "1994-10-10",
+        "account_balance": 8900.0,
+        "active": false,
+        "acc_type": "Savings",
+        "password": "pass2324",
+        "has_pin": true,
+        "pin": 2024,
+        "date_created": "Wed Sep 18 ",
+        "gender": "Male",
+        "transaction_count": {
+            "withdraw": 0,
+            "transfer": 1,
+            "deposit": 1
+        }
+    }
+]
