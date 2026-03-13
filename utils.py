@@ -14,7 +14,7 @@ MAXBALSAVINGS = 20000000
 
 THIS_FILE_PATH = os.path.abspath(__file__)
 BASE_DIR  = os.path.dirname(THIS_FILE_PATH)
-FP = os.path.join(BASE_DIR,"database.json")
+FP = os.path.join(BASE_DIR,"database\\database.json")
 ENTIRE_PROJECT_DIR  = os.path.dirname(BASE_DIR)
 
 class SignUp:
